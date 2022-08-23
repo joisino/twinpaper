@@ -2,6 +2,7 @@
 
 We propose a simple framework for determining the best decision making in research processes. The basic idea is to regard a decision as an intervention and measure the outcome by the number of citations. However, it is difficult to test with actual interventions, e.g., by randomly changing publication venues or titles, because it may cause adverse impacts on the researchers' careers. In this paper, we are inspired by the existing counterfactual analysis using twins, where the researchers regard twins as counterfactual units, and we propose to regard a pair of papers that cite each other as twins.
 
+Paper: https://arxiv.org/abs/2208.09862
 
 ## 💿 Dependency
 
